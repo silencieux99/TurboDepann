@@ -15,13 +15,6 @@ const Services = () => {
       color: "france-blue"
     },
     {
-      icon: <Truck size={40} />,
-      title: "Remorquage Poids Lourd",
-      description: "Assistance spécialisée pour véhicules lourds, camions et véhicules utilitaires.",
-      features: ["Camions", "Bus", "Utilitaires", "Camping-cars"],
-      color: "france-red"
-    },
-    {
       icon: <Bike size={40} />,
       title: "Dépannage Moto",
       description: "Service dédié aux deux-roues avec équipement adapté et sécurisé.",

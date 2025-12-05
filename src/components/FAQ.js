@@ -16,7 +16,7 @@ const FAQ = () => {
     },
     {
       question: "Quels types de véhicules prenez-vous en charge ?",
-      answer: "Nous intervenons sur tous types de véhicules : voitures (VL), poids lourds, motos, scooters, camping-cars, utilitaires, et même les engins de chantier. Notre équipement est adapté à chaque situation."
+      answer: "Nous intervenons sur tous types de véhicules : voitures (VL), motos, scooters, camping-cars, utilitaires, et même les engins de chantier. Notre équipement est adapté à chaque situation."
     },
     {
       question: "Comment sont calculés vos tarifs ?",

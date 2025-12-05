@@ -74,7 +74,7 @@ Les fichiers optimisés seront dans le dossier `build/`.
 
 Pour toute urgence dépannage :
 - **Téléphone** : 06 98 28 23 04
-- **Email** : contact@turbodepann.fr
+- **Email** : Turbodepann@gmail.com
 - **Disponibilité** : 24h/24, 7j/7
 
 ## 📄 Licence

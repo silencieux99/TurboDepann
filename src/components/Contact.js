@@ -48,8 +48,8 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: "Email",
-      content: "contact@turbodepann.fr",
-      link: "mailto:contact@turbodepann.fr"
+      content: "Turbodepann@gmail.com",
+      link: "mailto:Turbodepann@gmail.com"
     },
     {
       icon: <MapPin size={24} />,
@@ -179,7 +179,6 @@ const Contact = () => {
                         <option value="voiture">Voiture</option>
                         <option value="moto">Moto/Scooter</option>
                         <option value="utilitaire">Utilitaire</option>
-                        <option value="poids-lourd">Poids lourd</option>
                         <option value="autre">Autre</option>
                       </select>
                     </div>

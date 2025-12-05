@@ -114,9 +114,9 @@ const Footer = () => {
                 <Phone size={16} />
                 <span className="text-sm">06 98 28 23 04</span>
               </a>
-              <a href="mailto:contact@turbodepann.fr" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
+              <a href="mailto:Turbodepann@gmail.com" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
                 <Mail size={16} />
-                <span className="text-sm">contact@turbodepann.fr</span>
+                <span className="text-sm">Turbodepann@gmail.com</span>
               </a>
               <div className="flex items-start space-x-2 text-gray-400">
                 <MapPin size={16} className="mt-0.5" />
