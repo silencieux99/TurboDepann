@@ -212,7 +212,7 @@ const AddressSearch = ({ isMobile }) => {
               {/* Boutons d'action */}
               <div className="grid md:grid-cols-2 gap-4">
                 <motion.a
-                  href="tel:0123456789"
+                  href="tel:0698282304"
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   className="bg-gradient-to-r from-france-red to-france-red-light text-white py-4 rounded-full font-bold flex items-center justify-center gap-2 shadow-lg hover:shadow-xl transition-all"

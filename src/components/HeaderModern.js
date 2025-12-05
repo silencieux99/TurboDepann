@@ -59,13 +59,13 @@ const HeaderModern = () => {
             
             {/* Right side - Phone */}
             <motion.a 
-              href="tel:0123456789" 
+              href="tel:0698282304" 
               className="flex items-center gap-1 sm:gap-2 font-bold bg-white/10 px-2 py-1 sm:px-3 sm:py-1.5 rounded-full hover:bg-white/20 transition-all"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
               <Phone size={12} className="animate-pulse" />
-              <span className="hidden xs:inline">01 23 45 67 89</span>
+              <span className="hidden xs:inline">06 98 28 23 04</span>
               <span className="xs:hidden">Urgence</span>
             </motion.a>
           </div>
@@ -147,7 +147,7 @@ const HeaderModern = () => {
               </motion.button>
               
               <motion.a
-                href="tel:0123456789"
+                href="tel:0698282304"
                 whileHover={{ scale: 1.05, boxShadow: "0 10px 30px rgba(237, 41, 57, 0.4)" }}
                 whileTap={{ scale: 0.95 }}
                 className="relative px-6 py-3 bg-gradient-to-r from-france-red to-france-red-light text-white rounded-full font-bold flex items-center space-x-2 overflow-hidden group"
@@ -205,7 +205,7 @@ const HeaderModern = () => {
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.3 }}
-                  href="tel:0123456789"
+                  href="tel:0698282304"
                   className="mt-6 w-full bg-gradient-to-r from-france-red to-france-red-light text-white px-6 py-3 rounded-full font-bold flex items-center justify-center space-x-2"
                 >
                   <Phone size={20} />

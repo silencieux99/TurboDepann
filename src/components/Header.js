@@ -36,9 +36,9 @@ const Header = () => {
             </span>
             <span className="hidden sm:inline">Service 24h/24 - 7j/7</span>
           </div>
-          <a href="tel:0123456789" className="flex items-center hover:text-france-red transition-colors">
+          <a href="tel:0698282304" className="flex items-center hover:text-france-red transition-colors">
             <Phone size={16} className="mr-1" />
-            <span className="font-bold">01 23 45 67 89</span>
+            <span className="font-bold">06 98 28 23 04</span>
           </a>
         </div>
       </div>
@@ -85,7 +85,7 @@ const Header = () => {
             {/* CTA Button */}
             <div className="hidden lg:block">
               <a
-                href="tel:0123456789"
+                href="tel:0698282304"
                 className="bg-france-red hover:bg-france-red-light text-white px-6 py-3 rounded-full font-bold flex items-center space-x-2 transition-all hover-lift"
               >
                 <Phone size={20} />
@@ -125,7 +125,7 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="tel:0123456789"
+              href="tel:0698282304"
               className="mt-4 bg-france-red hover:bg-france-red-light text-white px-6 py-3 rounded-full font-bold flex items-center justify-center space-x-2 transition-all"
             >
               <Phone size={20} />

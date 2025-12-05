@@ -42,8 +42,8 @@ const Contact = () => {
     {
       icon: <Phone size={24} />,
       title: "Téléphone",
-      content: "01 23 45 67 89",
-      link: "tel:0123456789"
+      content: "06 98 28 23 04",
+      link: "tel:0698282304"
     },
     {
       icon: <Mail size={24} />,
@@ -225,11 +225,11 @@ const Contact = () => {
                 Notre équipe est prête à intervenir en moins de 30 minutes.
               </p>
               <a
-                href="tel:0123456789"
+                href="tel:0698282304"
                 className="inline-flex items-center space-x-2 bg-white text-france-blue hover:bg-gray-100 px-6 py-3 rounded-full font-bold transition-all"
               >
                 <Phone size={24} />
-                <span className="text-xl">01 23 45 67 89</span>
+                <span className="text-xl">06 98 28 23 04</span>
               </a>
             </div>
 

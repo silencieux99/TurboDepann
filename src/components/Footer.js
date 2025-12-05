@@ -110,9 +110,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4 text-france-blue">Contact Urgence</h4>
             <div className="space-y-3">
-              <a href="tel:0123456789" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
+              <a href="tel:0698282304" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
                 <Phone size={16} />
-                <span className="text-sm">01 23 45 67 89</span>
+                <span className="text-sm">06 98 28 23 04</span>
               </a>
               <a href="mailto:contact@turbodepann.fr" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
                 <Mail size={16} />
@@ -126,7 +126,7 @@ const Footer = () => {
 
             {/* Emergency Button */}
             <a
-              href="tel:0123456789"
+              href="tel:0698282304"
               className="mt-4 inline-flex items-center space-x-2 bg-france-red hover:bg-france-red-light text-white px-4 py-2 rounded-full text-sm font-semibold transition-all"
             >
               <Phone size={16} />

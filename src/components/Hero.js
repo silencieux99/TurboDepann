@@ -37,11 +37,11 @@ const Hero = () => {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="tel:0123456789"
+                href="tel:0698282304"
                 className="bg-france-red hover:bg-france-red-light text-white px-8 py-4 rounded-full font-bold text-lg flex items-center justify-center space-x-2 shadow-lg transition-all"
               >
                 <Phone size={24} />
-                <span>01 23 45 67 89</span>
+                <span>06 98 28 23 04</span>
               </motion.a>
               
               <Link

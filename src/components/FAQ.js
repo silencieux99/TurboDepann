@@ -122,7 +122,7 @@ const FAQ = () => {
         >
           <p className="text-gray-600 mb-4">Vous ne trouvez pas la réponse à votre question ?</p>
           <a
-            href="tel:0123456789"
+            href="tel:0698282304"
             className="inline-flex items-center space-x-2 text-france-blue hover:text-france-blue-light font-semibold text-lg transition-colors"
           >
             <HelpCircle size={24} />

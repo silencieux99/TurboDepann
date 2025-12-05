@@ -7,7 +7,7 @@ const WhatsAppButton = () => {
   const [showTooltip, setShowTooltip] = useState(false);
 
   // Numéro WhatsApp (à remplacer par le vrai numéro)
-  const phoneNumber = '33123456789'; // Format international sans + ni espaces
+  const phoneNumber = '33698282304'; // Format international sans + ni espaces
   const message = encodeURIComponent('Bonjour, j\'ai besoin d\'un dépannage automobile.');
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 

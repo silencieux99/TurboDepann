@@ -222,13 +222,13 @@ const HeroModern = () => {
                 transition={{ delay: 1.2 }}
               >
                 <motion.a
-                  href="tel:0123456789"
+                  href="tel:0698282304"
                   whileHover={!isMobile ? { scale: 1.05 } : {}}
                   whileTap={{ scale: 0.95 }}
                   className="inline-flex items-center gap-2 text-gray-300 hover:text-white transition-colors"
                 >
                   <Phone size={16} className="animate-pulse" />
-                  <span className="text-sm">Appel direct: 01 23 45 67 89</span>
+                  <span className="text-sm">Appel direct: 06 98 28 23 04</span>
                 </motion.a>
               </motion.div>
 

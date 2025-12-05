@@ -127,7 +127,7 @@ const Pricing = () => {
 
               <div className="p-6 pt-0">
                 <a
-                  href="tel:0123456789"
+                  href="tel:0698282304"
                   className={`w-full py-3 rounded-lg font-semibold flex items-center justify-center space-x-2 transition-all ${
                     plan.popular
                       ? 'bg-france-red hover:bg-france-red-light text-white'

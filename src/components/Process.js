@@ -8,7 +8,7 @@ const Process = () => {
       number: "1",
       icon: <Phone size={40} />,
       title: "Appelez-nous",
-      description: "Contactez notre service d'urgence disponible 24h/24 et 7j/7 au 01 23 45 67 89"
+      description: "Contactez notre service d'urgence disponible 24h/24 et 7j/7 au 06 98 28 23 04"
     },
     {
       number: "2",
@@ -91,7 +91,7 @@ const Process = () => {
           className="text-center mt-12"
         >
           <a
-            href="tel:0123456789"
+            href="tel:0698282304"
             className="inline-flex items-center space-x-2 bg-gradient-to-r from-france-blue to-france-red hover:from-france-blue-light hover:to-france-red-light text-white px-8 py-4 rounded-full font-bold text-lg transition-all shadow-lg hover-lift"
           >
             <Phone size={24} />

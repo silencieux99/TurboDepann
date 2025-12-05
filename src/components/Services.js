@@ -104,7 +104,7 @@ const Services = () => {
                 </ul>
 
                 <a
-                  href="tel:0123456789"
+                  href="tel:0698282304"
                   className={`w-full bg-${service.color} hover:opacity-90 text-white py-3 rounded-lg font-semibold flex items-center justify-center space-x-2 transition-all`}
                 >
                   <Phone size={18} />
@@ -127,11 +127,11 @@ const Services = () => {
           <h3 className="text-3xl font-bold mb-4">Urgence ? Nous sommes là !</h3>
           <p className="text-lg mb-6">Intervention rapide en 30 minutes partout en Île-de-France</p>
           <a
-            href="tel:0123456789"
+            href="tel:0698282304"
             className="inline-flex items-center space-x-2 bg-white text-france-blue hover:bg-gray-100 px-8 py-4 rounded-full font-bold text-lg transition-all shadow-lg"
           >
             <Phone size={24} />
-            <span>01 23 45 67 89</span>
+            <span>06 98 28 23 04</span>
           </a>
         </motion.div>
       </div>
